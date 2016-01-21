@@ -13,6 +13,7 @@ The interesting things about this project are:
  - OpenGL for fast 2D graphics
  - AdMob and iAD integration
  - See how a simple "Flappy Bird" type game works under the hood
+ - **Feel free to use this code as the basis for your own game** (just give credit please)
 
 ##Get started
 The "build" folder contains the projects and source code specific to each platform. The core game code is located in "src/core".
