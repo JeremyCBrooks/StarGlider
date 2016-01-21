@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Glider</string>
+    <string name="quit">Quit</string>
+    <string name="really_quit">Would you like to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="star_catcher_pref_file">starc_pref_file</string>       
+</resources>
