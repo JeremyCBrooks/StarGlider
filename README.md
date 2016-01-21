@@ -1,9 +1,9 @@
 # Star Glider
 A cross platform mobile game with one-tap play mechanics (think "Flappy Bird").
 
+##What is this?
 This was created as a for-fun project over a weekend in February of 2014, at the height of the Flappy Bird craze. The goal was to gain mobile development experience and go through the process of publishing an app to the iOS app store (ended up going for Android as well thanks to help from my good friend Costa!).
 
-##What is this?
 The interesting things about this project are:
  - You get to see the *full source code and all assets* from an actual published mobile game
    - https://itunes.apple.com/us/app/star-glider/id824529923?mt=8
