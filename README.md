@@ -17,5 +17,5 @@ The interesting things about this project are:
 ##Get started
 The "build" folder contains the projects and source code specific to each platform. The core game code is located in "src/core".
  - On Windows, you will need Visual Studio 2013 or 2015 (one of the free editions should work fine). Browse to "build/win" and open star_catcher.sln. Everything should build and run with no special instructions.
- - On Mac, you will need the latest version of XCode. Browse to "buid/ios/star catcher" and open Star Glider.xcodeproj.
+ - On Mac, you will need the latest version of XCode. Browse to "build/ios/star catcher" and open Star Glider.xcodeproj.
  - The Android build will take a bit more work. Once you have an Android dev environment set up, you will first need to build the jni code. Go into "build/android/jni" and read the BUILD_INSTRUCTIONS document (assumes you are building on Windows, also pay attention to paths because they will likely be different for you). After the jni code is built, you should be able to load the Eclipse project in "build/android" and build the Java code.
