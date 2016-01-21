@@ -1,6 +1,6 @@
 # Star Glider
 A cross platform mobile game with one-tap play mechanics (think "Flappy Bird").
-<img src="https://raw.github.com/JeremyCBrooks/StarGlider/blob/master/assets_src/screenshot1.PNG" alt="screenshot" width="200">
+<img src="https://raw.githubusercontent.com/JeremyCBrooks/StarGlider/master/assets_src/screenshot1.PNG" alt="screenshot" width="200">
 
 ##What is this?
 This was created as a for-fun project over a weekend in February of 2014, at the height of the Flappy Bird craze. The goal was to gain mobile development experience and go through the process of publishing an app to the iOS app store (ended up going for Android as well thanks to help from my good friend Costa!).
