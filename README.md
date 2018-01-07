@@ -10,7 +10,7 @@ The interesting things about this project are:
    - https://itunes.apple.com/us/app/star-glider/id824529923?mt=8
    - https://play.google.com/store/apps/details?id=com.brooks.jeremy.starglider
  - See how cross platform development can be done (targets Windows PC, iOS, and Android with a large amount of shared code)
- - No frameworks, just pure C++ with a small amount of Java and Objective-C (just enough to bootstrap the app on Android or iOS respectively)
+ - No frameworks, just pure C++ with a small amount of Java and Objective-C (just enough to bootstrap the app and provide platform specific services through a common interface)
  - OpenGL for fast 2D graphics
  - AdMob and iAD integration
  - See how a simple "Flappy Bird" type game works under the hood
